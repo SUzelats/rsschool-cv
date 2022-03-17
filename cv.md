@@ -11,11 +11,13 @@ My goal is to successfully complete the JS/Front-end developer course and find a
 * *Node-Red*
 * *PostgreSQL*
 ## **Code Example**
+
 ```
 function multiply(a, b){
 return a * b;
 }
 ```
+
 ## **Experience**
 I work in a bank. I create and improve existing business processes for working with premium clients.
 ## **Education**
