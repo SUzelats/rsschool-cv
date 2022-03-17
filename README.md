@@ -1,1 +1,1 @@
-# rsschool-cv
+https://suzelats.github.io/rsschool-cv/cv
