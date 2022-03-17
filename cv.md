@@ -13,9 +13,7 @@ My goal is to successfully complete the JS/Front-end developer course and find a
 ## **Code Example**
 ```
 function multiply(a, b){
-
 return a * b;
-
 }
 ```
 ## **Experience**
